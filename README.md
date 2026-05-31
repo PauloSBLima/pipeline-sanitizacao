@@ -48,8 +48,10 @@ Diante desta realidade aplicaram-se os seguintes tratamentos:<br>
 ├── pipeline-sanitizacao/
 │   ├── dados_brutos/      # Dados antes da sanitização
 │   └── dados_limpos/      # Dados limpos (resultado final)
-├── minhas_funcoes.py      # Módulo de funções deste projeto
+├── .gitignore             # Relação de arqs que não devem ser levados p/ o  GitHub
 ├── README.md              # Leia-me do projeto
+├── minhas_funcoes.py      # Módulo de funções deste projeto
+├── requirements.txt       # Relação de bibliotecas e dependências (vazia)
 └── sanitizacao.ipynb      # Módulo principal de sanitização dos dados
 ```
 ## ▶ 7. Passo a Passo (Git Flow)
