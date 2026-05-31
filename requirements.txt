@@ -1,0 +1,3 @@
+```text
+# Este projeto utiliza apenas a biblioteca padrão do Python.
+# Nenhuma instalação externa é necessária.
